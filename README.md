@@ -28,9 +28,9 @@ SpeakEase is a discreet wearable device designed to enhance public speaking skil
 - The stepper motor drives a gauge needle to display the speed of sound.
 - An RGB LED ring changes color and brightness based on volume of sound for visual feedback.
 - The rotary encoder sets speech duration, and an adjacent LED alerts on time changes.
-
 ## Device Communication
 ESP32 modules handle Bluetooth/Wi-Fi communication, ensuring synchronization between both devices.
+
 ![我的图片](https://github.com/YuyangQii/TECHIN514_Project/blob/main/images/slide1.png)
 ![我的图片](https://github.com/YuyangQii/TECHIN514_Project/blob/main/images/slide2.png)
 ![我的图片](https://github.com/YuyangQii/TECHIN514_Project/blob/main/images/slide3.png)
