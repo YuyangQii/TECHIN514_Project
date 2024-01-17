@@ -32,3 +32,5 @@ SpeakEase is a discreet wearable device designed to enhance public speaking skil
 ## Device Communication
 ESP32 modules handle Bluetooth/Wi-Fi communication, ensuring synchronization between both devices.
 
+![我的图片](slide1.png)
+
