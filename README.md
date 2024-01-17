@@ -4,12 +4,12 @@
 SpeakEase is a discreet wearable device designed to enhance public speaking skills by providing real-time audio feedback. This system connects a wearable device with a desktop display unit via wireless technology, offering intuitive guidance for speakers.
 
 ## Wearable Device
-### Sensors
+#### Components
 - Digital Microphone: MP34DT01-M
 - Vibration Motor: C0834B002F
 - OLED Display: SSD1306
 
-### Functionality
+#### Features
 - Captures the speaker's voice in real-time.
 - Processes data with ESP32.
 - Transmits data to the display device.
@@ -17,7 +17,7 @@ SpeakEase is a discreet wearable device designed to enhance public speaking skil
 - Alerts with vibration when time is running low.
 
 ## Display Device
-####Components
+#### Components
 - RGB LED Light: WS2812B 5050
 - Standard LED
 - Stepper Motor: 28BYJ-48 5V with ULN2003 Driver
